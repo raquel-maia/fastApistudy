@@ -28,6 +28,7 @@ pip install fastapi uvicorn
 
     A aplicação estará disponível em 
     http://127.0.0.1:8000.
+```
 
 
 ## Modelos de Dados
