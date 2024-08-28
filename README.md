@@ -13,7 +13,7 @@ Este projeto é um exemplo de API de gerenciamento de usuários construída com 
 
 ## Requisitos
 
-- Python 3.7+
+- Python 3.12
 - FastAPI
 - Uvicorn
 
